@@ -6,7 +6,7 @@ Olá Mundo aqui quem fala é o Lucas.
 ---
 **`Desenvolvedor full-stack`**
 
-Me chamo Lucas Duarte Vanderlei, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da computação. Um amante da tecnologia.
+Me chamo Lucas Duarte Vanderlei, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da computação.
 
 ---
 
