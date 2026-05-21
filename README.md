@@ -7,57 +7,58 @@
 
 ## 🚀 Desenvolvedor Full-Stack
 
-Me chamo Lucas Duarte Vanderlei, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação.
+Me chamo Lucas Duarte Vanderlei, tenho 21 anos e sou natural de São Paulo.  
+Atualmente, estou cursando Ciência da Computação.
 
 ---
 
 ## 🤖 Linguagens e Tecnologias
 
-<div style="display: inline_block"><br>
+<p align="center">
 
-<img align="center" alt="HTML" height="40" width="40"
+<img alt="HTML" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-<img align="center" alt="CSS" height="40" width="40"
+<img alt="CSS" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-<img align="center" alt="JavaScript" height="40" width="40"
+<img alt="JavaScript" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<img align="center" alt="TypeScript" height="40" width="40"
+<img alt="TypeScript" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-<img align="center" alt="React" height="40" width="40"
+<img alt="React" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="center" alt="NextJS" height="40" width="40"
+<img alt="NextJS" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
-<img align="center" alt="Bootstrap" height="40" width="40"
+<img alt="Bootstrap" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
-<img align="center" alt="Tailwind" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img alt="Tailwind" height="50" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 
-<img align="center" alt="SASS" height="40" width="40"
+<img alt="SASS" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-<img align="center" alt="PHP" height="40" width="40"
+<img alt="PHP" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-<img align="center" alt="Laravel" height="40" width="40"
+<img alt="Laravel" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 
-<img align="center" alt="JQuery" height="40" width="40"
+<img alt="JQuery" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 
-<img align="center" alt="Git" height="40" width="40"
+<img alt="Git" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="center" alt="Python" height="40" width="40"
+<img alt="Python" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-</div>
+</p>
 
 ---
 
@@ -66,9 +67,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=LucasDuarteV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+src="https://github-readme-stats.vercel.app/api?username=LucasDuarteV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDuarteV&layout=compact&langs_count=10&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDuarteV&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
