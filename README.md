@@ -130,21 +130,11 @@ Me chamo Lucas Duarte Vanderlei, tenho 21 anos e sou natural de São Paulo. Atua
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasDuarteV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDuarteV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=15" 
-  />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasDuarteV&show_icons=true&theme=tokyonight"/>
 
-</p>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasDuarteV&layout=compact&theme=tokyonight"/>
+
+</div>
 
