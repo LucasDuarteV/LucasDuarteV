@@ -13,105 +13,51 @@ Me chamo Lucas Duarte Vanderlei, tenho 21 anos e sou natural de São Paulo. Atua
 
 ## 🤖 Linguagens e Tecnologias
 
-<p align="left">
-  <img 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-  />
+<div style="display: inline_block"><br>
 
-  <img 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-  />
+<img align="center" alt="HTML" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-  <img 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-  />
+<img align="center" alt="CSS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-  <img 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
-  />
+<img align="center" alt="JavaScript" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-  <img 
-    alt="React"
-    title="React" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-  />
+<img align="center" alt="TypeScript" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-  <img 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
-  />
+<img align="center" alt="React" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-  <img 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
-  />
+<img align="center" alt="NextJS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
-  <img 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
-  />
+<img align="center" alt="Bootstrap" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
-  <img 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
-  />
+<img align="center" alt="Tailwind" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
-  <img 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
-  />
+<img align="center" alt="SASS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-  <img 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" 
-  />
+<img align="center" alt="PHP" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-  <img 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" 
-  />
+<img align="center" alt="Laravel" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 
-  <img 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-  />
+<img align="center" alt="JQuery" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 
-  <img 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-  />
-</p>
+<img align="center" alt="Git" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+</div>
 
 ---
 
@@ -119,18 +65,10 @@ Me chamo Lucas Duarte Vanderlei, tenho 21 anos e sou natural de São Paulo. Atua
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDuarteV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=LucasDuarteV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDuarteV&layout=compact&langs_count=10&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDuarteV&layout=compact&langs_count=10&theme=tokyonight"/>
 
 </div>
-
----
-
-## 🌐 Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_INSTAGRAM)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasDuarteV)
