@@ -1,6 +1,5 @@
 # Olá Mundo, aqui quem fala é o Lucas. 👋
 
-- 🔭 Hoje estou em busca de um novo emprego.
 - 🌱 Sempre estudando para alcançar meus objetivos.
 
 ---
