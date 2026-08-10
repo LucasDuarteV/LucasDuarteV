@@ -12,8 +12,10 @@ Me chamo Lucas Duarte Vanderlei, tenho 22 anos e sou natural de São Paulo. Atua
 
 ## 🤖 Linguagens e Tecnologias
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,java,cs,dotnet,go,mysql,git,github,docker" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,html,css,js,ts,nodejs,java,cs,dotnet,mysql,git,github,docker" />
+
 </div>
 
 ---
@@ -21,7 +23,9 @@ Me chamo Lucas Duarte Vanderlei, tenho 22 anos e sou natural de São Paulo. Atua
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDuarteV&show_icons=true&theme=dark&locale=pt-br" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDuarteV&layout=compact&langs_count=8&theme=dark&locale=pt-br" />
+
 </div>
